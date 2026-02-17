@@ -238,7 +238,8 @@ pre {
 
 .code-container {
 	margin: 1rem 0;
-	position: relative
+	position: relative;
+	border-radius: .3em;
 }
 
 .code-container:hover>.copy-button {
