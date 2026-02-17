@@ -174,7 +174,7 @@ code.hljs {
 
 code[class*=language-],
 pre {
-	background: #fafafa;
+	background: #fefefe;
 	color: #383a42;
 	font-family: Fira Code, Fira Mono, Menlo, Consolas, DejaVu Sans Mono, monospace;
 	direction: ltr;
