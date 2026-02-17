@@ -335,6 +335,29 @@ a {
 	cursor: pointer
 }
 
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  display: block;
+  width: 100%;
+  overflow: auto;
+  word-break: keep-all;
+  margin: 10px;
+  font-variant-numeric: tabular-nums
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 6px 13px
+}
+
+blockquote {
+  padding: 10px 20px;
+  margin: 0 0 20px;
+  border-left: 5px solid #eee
+}
+
 a {
 	background-color: transparent
 }
